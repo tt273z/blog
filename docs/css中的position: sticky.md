@@ -1,4 +1,4 @@
-# 浅谈 position: sticky
+# css中的position: sticky
 
 ## 介绍
 
