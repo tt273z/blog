@@ -4,7 +4,7 @@
 
 ## content
 
-[关于void 0](https://github.com/tt273z/blog/blob/main/docs/%E5%85%B3%E4%BA%8Evoid%200.md)
+[关于 void 0](https://github.com/tt273z/blog/blob/main/docs/%E5%85%B3%E4%BA%8Evoid%200.md)
 
 [使用 husky + lint-staged 做代码检查](https://github.com/tt273z/blog/blob/main/docs/%E4%BD%BF%E7%94%A8%20husky%20%2B%20lint-staged%20%E5%81%9A%E4%BB%A3%E7%A0%81%E6%A3%80%E6%9F%A5.md)
 
@@ -12,4 +12,4 @@
 
 [小程序图片加载优化](https://github.com/tt273z/blog/blob/main/docs/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E4%BC%98%E5%8C%96.md)
 
-[css中的position:sticky](https://github.com/tt273z/blog/blob/main/docs/css%E4%B8%AD%E7%9A%84position:%20sticky.md)
+[css 中的 position: sticky](https://github.com/tt273z/blog/blob/main/docs/css%E4%B8%AD%E7%9A%84position:%20sticky.md)
